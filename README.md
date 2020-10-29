@@ -35,3 +35,6 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 $ python3 detect_mask_video.py 
 ```
+## Testing
+![Mask On](https://github.com/ABraik-bit/Arduino-led-matrix-video-game/blob/master/Tetris.jpeg)
+![Mask Off](https://github.com/ABraik-bit/Arduino-led-matrix-video-game/blob/master/Tetris.jpeg)
