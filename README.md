@@ -19,7 +19,7 @@ $ pip3 install -r requirements.txt
 ```
 
 
-## :bulb: Working
+## Working
 
 To re-train the ML module
 ```
