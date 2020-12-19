@@ -3,7 +3,7 @@
 ## Prerequisites
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code>  
-Use the following command to install all the dependencies:
+Use the following command to install all the dependencies
 ```
 $ pip3 install -r requirements.txt
 ```
