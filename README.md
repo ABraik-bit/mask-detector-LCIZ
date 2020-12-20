@@ -9,7 +9,7 @@ $ pip3 install -r requirements.txt
 ```
 
 ## Installation
-Clone the repo
+Clone the repo:
 ```
 $ git clone https://github.com/ABraik-bit/mask-detector-LCIZ
 ```
